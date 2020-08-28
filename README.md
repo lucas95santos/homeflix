@@ -39,7 +39,7 @@
 <br />
 
 <p>
-  The goal of Homeflix is is to stream movies and series that are stored locally.
+  The goal of Homeflix is to stream movies and series that are stored locally.
 </p>
 
 <br />
